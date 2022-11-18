@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aylin Kaya
 - 🌱 I’m currently learning Python, Deep Learning, Machine Learning, SQL
-- 📫 How to reach me www.linkedin.com/in/aylin-kaya-aylin4071
+- 📫 How to reach me www.linkedin.com/in/aylinnkayaa
 - 📫 https://www.kaggle.com/aylinnkaya
 
 <!---
