@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aylin Kaya
-- 🌱 I’m currently learning Python, Deep Learning, Machine Learning, SQL
+- 🌱 I’m currently learning Python, Data Science, Machine Learning, SQL
 - 📫 How to reach me www.linkedin.com/in/aylinnkayaa
 - 📫 https://www.kaggle.com/aylinnkaya
 
